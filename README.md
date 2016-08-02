@@ -1,2 +1,2 @@
 # Big Data For Natural Disaster recovery
-Vacation Recommendation System using content based and Collaborative filtering techniques
+Natural Disaster damages prediction and resource need recommendation system using Spark MLib Linear Regression and TF-IDF techniques.
